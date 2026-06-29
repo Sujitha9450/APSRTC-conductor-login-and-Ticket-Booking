@@ -32,6 +32,7 @@ System.out.println("			"+so+" 				TO			 "+dest);
 System.out.println("							Pass Rs.:"+pass+"*"+amo);
 System.out.println("							Amount : Rs."+(pass*amo));
 System.out.println("							HAPPY JOURNEY :-)");
+System.out.println("              Life is so short");
 System.out.println("							NOT TRANSFERRABLE");
 }
 }
